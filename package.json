@@ -1,0 +1,23 @@
+{
+  "name": "nodeexpresssampleproject",
+  "version": "1.0.0",
+  "description": "freecodecamp node+express",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreeCodeUserJack/NodeExpressSampleProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FreeCodeUserJack/NodeExpressSampleProject/issues"
+  },
+  "homepage": "https://github.com/FreeCodeUserJack/NodeExpressSampleProject#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.2",
+    "lodash": "^4.17.21"
+  }
+}
