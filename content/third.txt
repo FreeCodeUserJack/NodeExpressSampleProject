@@ -1,1 +1,1 @@
-Third file combines first and second: hello this is first text file: Hello this is second text file
+hello third text filehello third text file
